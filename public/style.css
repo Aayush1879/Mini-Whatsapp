@@ -1,0 +1,26 @@
+.chat{
+    background-color: rgb(42, 132, 165);
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+.msg{
+    background-color: black;
+    color: wheat;
+    padding: 5px 15px;
+    border-radius: 20px;
+
+}
+.btn{
+    border-radius: 20px;
+
+}
+.bdy{
+    background-color: rgb(23, 26, 18);
+}
+.tarea{
+    background-color: bisque;
+    color: rgb(21, 43, 43);
+    border-radius: 20px;
+
+}
